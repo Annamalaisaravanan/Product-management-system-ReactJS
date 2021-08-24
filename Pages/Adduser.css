@@ -1,0 +1,62 @@
+.adduserdiv{
+    top:50%;
+    left:50%;
+    position:absolute;
+    transform: translate(-50%,-50%);
+    
+}
+
+.adduser-form{
+   display:flex;
+   flex-direction:column;
+   padding:20px;
+   width:480px;
+
+}
+
+.dhod{
+display:flex;
+flex-direction:column;
+padding:10px;
+margin-top:10px;
+}
+
+input{
+width:80%;
+height:40px;
+border:1px solid black;
+border-radius:6px;
+}
+
+#btn-add{
+padding:10px;
+display:flex;
+justify-content:space-evenly;
+margin-right:80px;
+}
+
+#btn-add button{
+color:white;   
+}
+
+.adduserform-head{
+display:flex;
+justify-content: center;
+
+}
+
+.adduser-form h3, .adduser-form label{
+  font-weight:700;
+}
+
+
+.adduser-head{
+  margin-right:50px;
+}
+
+.adshow{
+   margin-left:80px;
+}
+.adh2{
+  font-weight:600;
+}

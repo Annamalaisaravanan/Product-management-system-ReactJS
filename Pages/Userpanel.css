@@ -1,0 +1,37 @@
+.userpanel-icons{
+       
+              display:flex;
+              justify-content: space-around;         
+}
+
+
+.userpanel-tablediv{
+       display:grid;
+       place-items: center;
+       margin-top:40px;
+       margin-bottom:20px;
+}
+
+.userpanel-table{
+       width:70%;
+       
+       align-items: center;
+       height:40px;
+       border:none;
+       border-collapse: collapse;
+}
+
+.userpanel-row{
+       display:flex;
+       justify-content: space-evenly;
+}
+
+.userpanel-head{
+     font-size:25px;
+}
+
+.userpanel-table tr, .userpanel-table{
+        border:1px solid black;
+       
+}
+

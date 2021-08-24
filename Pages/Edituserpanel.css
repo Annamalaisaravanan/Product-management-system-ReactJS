@@ -1,0 +1,16 @@
+.adduserdiv .editdetail{
+        width:100%;
+}
+
+.editf{
+   width:180px;
+   clear:left;
+   text-align:left;
+   padding-right:10px;
+   font-size: 20px;
+}
+
+.updatebtn{
+  display:flex;
+  justify-content: center;
+}
